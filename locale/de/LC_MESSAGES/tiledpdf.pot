@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-09-15 22:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: JC-Design <EMAIL@ADDRESS>\n"
+"Language-Team: de <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: tiledpdf.inx:3
+msgid "TiledPDF"
+msgstr "TiledPDF"
+
+#: tiledpdf.inx:6
+msgid "Options"
+msgstr "Optionen"
+
+#: tiledpdf.inx:7
+msgid "Number of pages to the right"
+msgstr "Anzahl der Seiten nach rechts"
+
+#: tiledpdf.inx:8
+msgid "Number of pages downwards"
+msgstr "Anzahl der Seiten nach unten"
+
+#: tiledpdf.inx:9
+msgid "Overlapping left and right"
+msgstr "Überlappung links und rechts"
+
+#: tiledpdf.inx:10
+msgid "Overlapping top and bottom"
+msgstr "Überlappung oben und unten"
+
+#: tiledpdf.inx:11
+msgid "Borderwidth"
+msgstr "Rahmenbreite"
+
+#: tiledpdf.inx:12
+msgid "Fontsize"
+msgstr "Schriftgröße"
+
+#: tiledpdf.inx:13
+msgid "Font- and bordercolor"
+msgstr "Schrift- und Rahmnefarbe"
+
+#: tiledpdf.inx:15
+msgid "Help"
+msgstr "Hilfe"
+
+#: tiledpdf.inx:16
+msgid ""
+"The newly created pages are based on the first page defined in the document. "
+"The width of the overlap depends on the document settings (e.g., 'mm'). The "
+"font size is always interpreted as 'pt'."
+msgstr ""
+"Die neu erstellten Seiten richten sich nach der ersten Seite, welche im Dokument definiert ist. "
+"Die Weite der Überlappung richtet sich nach den Dokumenteinstellungen (z.B. 'mm'). Die "
+"Schriftgröße wird immer als 'pt' interpretiert."
+
+#: tiledpdf.inx:22
+msgid "Custom"
+msgstr "Benutzerdefiniert"
