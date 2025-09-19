@@ -8,15 +8,15 @@ class TiledPDF(inkex.EffectExtension):
             dest='grid_x', help="Number of pages in width")
         pars.add_argument('--grid_y', type=int, default='2',
             dest='grid_y', help="Number of pages in height")
-        pars.add_argument('--overlap_x', type=float, default='10',
+        pars.add_argument('--overlap_x', type=float, default='20',
             dest='overlap_x', help="Overlapping left and right")
-        pars.add_argument('--overlap_y', type=float, default='10',
+        pars.add_argument('--overlap_y', type=float, default='20',
             dest='overlap_y', help="Overlapping top and bottom")
-        pars.add_argument('--borderwidth', type=float, default='1.5',
+        pars.add_argument('--borderwidth', type=float, default='0.5',
             dest='borderwidth', help="Borderwidth")
-        pars.add_argument('--fontsize', type=int, default='76',
+        pars.add_argument('--fontsize', type=int, default='32',
             dest='fontsize', help="Fontsize")
-        pars.add_argument('--color_border', type=str, default='#777777',
+        pars.add_argument('--color_border', type=str, default='#7f7f7f',
             dest='color_border', help="Font- and bordercolor")
 
         pars.add_argument('--tab', type=str, default='', dest='', help="")

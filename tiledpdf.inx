@@ -6,11 +6,11 @@
         <page name="options" gui-text="Options">
             <param name="grid_x" type="int" min="2" max="10" gui-text="Number of pages to the right">2</param>
             <param name="grid_y" type="int" min="2" max="10" gui-text="Number of pages downwards">2</param>
-            <param name="overlap_x" type="float" min="0" max="50" gui-text="Overlapping left and right">16</param>
+            <param name="overlap_x" type="float" min="0" max="50" gui-text="Overlapping left and right">20</param>
             <param name="overlap_y" type="float" min="0" max="50" gui-text="Overlapping top and bottom">20</param>
             <param name="borderwidth" type="float" min="0.1" max="5" gui-text="Borderwidth">0.5</param>
             <param name="fontsize" type="int" min="10" max="100" gui-text="Fontsize">32</param>
-            <param name="color_border" type="color" gui-text="Font- and bordercolor">0x77777777</param>
+            <param name="color_border" type="color" gui-text="Font- and bordercolor">0x7f7f7f7f</param>
         </page>
         <page name="help" gui-text="Help">
           <label>The newly created pages are based on the first page defined in the document. The width of the overlap depends on the document settings (e.g., 'mm'). The font size is always interpreted as 'pt'.</label>
