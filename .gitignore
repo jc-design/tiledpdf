@@ -1,0 +1,14 @@
+# Ignore all .log files
+*.log
+__debug_*
+*.code-workspace
+
+# Ignore vscodes directory
+.vscode/
+.git/
+build/
+env/
+fyne-cross/
+
+# Ignore all .env files
+env
